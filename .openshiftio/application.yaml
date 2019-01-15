@@ -46,7 +46,7 @@ objects:
   spec: {}
 - apiVersion: v1	
   kind: ImageStream	
-  metadata:	
+  metadata:
     name: runtime-health-check-vertx	
     labels:	
       booster: health-check-vertx	
