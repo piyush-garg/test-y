@@ -48,7 +48,7 @@ objects:
   kind: ImageStream	
   metadata:
     name: runtime-health-check-vertx	
-    labels	
+    labels:
       booster: health-check-vertx	
   spec:
     tags:
